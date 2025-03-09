@@ -1,13 +1,322 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7026ab2c-79a4-41de-8ac9-6decbf6e43ae" name="更改" comment="feature: 增加屏蔽文件">
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/StrategyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/Discount95Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/Discount9Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/DiscountStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/DiscountStrategyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test02/Discount93Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test02/DiscountStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test02/DiscountStrategyFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/test-classes/com/aa03/design/test/StrategyTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/builder-pattern">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\apache-maven-3.8.6\repository" />
+        <option name="mavenHome" value="D:\dev\apache-maven-3.8.6" />
+        <option name="userSettingsFile" value="D:\dev\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jgFprlW5teEBKPnB4Tgicw01FZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;D:/dev/jvm/visualvm_216/bin/visualvm.exe&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+    &quot;JUnit.ChainApplicationTests.abstractHandlerChain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ChainApplicationTests.contextLoads (1).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ChainApplicationTests.contextLoads.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.ChainApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ChainApplicationTests.orderedHandlerChain.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StrategyTest.test02.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StrategyTest.test03.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.strategy-pattern [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.strategy-pattern [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ResponsibilityApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/design-pattern/strategy-pattern/pom.xml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.App.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Handler02 (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Handler02.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.Test01.executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.aa03.design.test01.App (1).executor&quot;: &quot;Run&quot;,
+    &quot;应用程序.com.aa03.design.test01.App.executor&quot;: &quot;Debug&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\design-pattern\strategy-pattern\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StrategyTest.test03">
+    <configuration name="com.aa03.design.test01.App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aa03.design.test01.App" />
+      <module name="strategy-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aa03.design.test01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.aa03.design.test01.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aa03.design.test01.App" />
+      <module name="builder-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aa03.design.test01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChainApplicationTests.abstractHandlerChain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="responsibility-chain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aa03.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aa03.design.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aa03.design.test.ChainApplicationTests" />
+      <option name="METHOD_NAME" value="abstractHandlerChain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strategy-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aa03.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aa03.design.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aa03.design.test.StrategyTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="strategy-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aa03.design.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.aa03.design.test" />
+      <option name="MAIN_CLASS_NAME" value="com.aa03.design.test.StrategyTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StrategyTest.test03" />
+        <item itemvalue="JUnit.StrategyTest.test02" />
+        <item itemvalue="应用程序.com.aa03.design.test01.App (1)" />
+        <item itemvalue="应用程序.com.aa03.design.test01.App" />
+        <item itemvalue="JUnit.ChainApplicationTests.abstractHandlerChain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7026ab2c-79a4-41de-8ac9-6decbf6e43ae" name="更改" comment="" />
+      <created>1721800998976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721800998976</updated>
+      <workItem from="1721801000012" duration="11149000" />
+      <workItem from="1721879553667" duration="11000" />
+      <workItem from="1721881262713" duration="18131000" />
+      <workItem from="1721935115817" duration="290000" />
+      <workItem from="1721937247962" duration="109000" />
+      <workItem from="1722323541080" duration="26000" />
+      <workItem from="1722351007189" duration="1000" />
+      <workItem from="1727445672266" duration="6000" />
+    </task>
+    <task id="LOCAL-00001" summary="feature: 责任链设计模式实现（未使用IOC）">
+      <option name="closed" value="true" />
+      <created>1721804506998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721804506998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feature: 责任链设计模式实现, 利用IOC容器实现OCP原则">
+      <option name="closed" value="true" />
+      <created>1721806092882</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721806092882</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feature: 责任链设计模式实现排序chain功能">
+      <option name="closed" value="true" />
+      <created>1721813352568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721813352568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="optimizer: 删除调试代码">
+      <option name="closed" value="true" />
+      <created>1721813381874</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721813381874</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feature: 构建者设计模式">
+      <option name="closed" value="true" />
+      <created>1721889019445</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721889019445</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feature: 简单策略设计模式实现">
+      <option name="closed" value="true" />
+      <created>1721897846072</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721897846072</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feature: 使用IOC实现策略设计模式">
+      <option name="closed" value="true" />
+      <created>1721903160877</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721903160877</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feature: 模式介绍">
+      <option name="closed" value="true" />
+      <created>1721903388598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721903388598</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feature: 定义抽象策略设计模型，减少重复定义类">
+      <option name="closed" value="true" />
+      <created>1721908299609</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721908299609</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feature: 增加屏蔽文件">
+      <option name="closed" value="true" />
+      <created>1721909152978</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721909152978</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature: 责任链设计模式实现（未使用IOC）" />
+    <MESSAGE value="feature: 责任链设计模式实现, 利用IOC容器实现OCP原则" />
+    <MESSAGE value="feature: 责任链设计模式实现排序chain功能" />
+    <MESSAGE value="optimizer: 删除调试代码" />
+    <MESSAGE value="feature: 构建者设计模式" />
+    <MESSAGE value="feature: 简单策略设计模式实现" />
+    <MESSAGE value="feature: 使用IOC实现策略设计模式" />
+    <MESSAGE value="feature: 模式介绍" />
+    <MESSAGE value="feature: 定义抽象策略设计模型，减少重复定义类" />
+    <MESSAGE value="feature: 增加屏蔽文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: 增加屏蔽文件" />
+  </component>
 </project>
