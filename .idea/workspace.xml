@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7026ab2c-79a4-41de-8ac9-6decbf6e43ae" name="更改" comment="feature: 增加屏蔽文件">
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/StrategyApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/Discount95Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/Discount9Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/DiscountStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test01/DiscountStrategyFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test02/Discount93Strategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test02/DiscountStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/classes/com/aa03/design/test02/DiscountStrategyFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/strategy-pattern/target/test-classes/com/aa03/design/test/StrategyTest.class" beforeDir="false" />
+    <list default="true" id="7026ab2c-79a4-41de-8ac9-6decbf6e43ae" name="更改" comment="feature: 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +48,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\dev\apache-maven-3.8.6" />
         <option name="localRepository" value="D:\dev\apache-maven-3.8.6\repository" />
-        <option name="mavenHome" value="D:\dev\apache-maven-3.8.6" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
         <option name="userSettingsFile" value="D:\dev\apache-maven-3.8.6\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -74,45 +66,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.ChainApplicationTests.abstractHandlerChain.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ChainApplicationTests.contextLoads (1).executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.ChainApplicationTests.contextLoads.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.ChainApplicationTests.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ChainApplicationTests.orderedHandlerChain.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StrategyTest.test02.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StrategyTest.test03.executor&quot;: &quot;Debug&quot;,
-    &quot;Maven.strategy-pattern [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.strategy-pattern [package].executor&quot;: &quot;Run&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.ResponsibilityApplication.executor&quot;: &quot;Debug&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;22&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/design-pattern/strategy-pattern/pom.xml&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.App.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Handler02 (1).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Handler02.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.Test01.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.aa03.design.test01.App (1).executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.com.aa03.design.test01.App.executor&quot;: &quot;Debug&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ChainApplicationTests.abstractHandlerChain.executor": "Run",
+    "JUnit.ChainApplicationTests.contextLoads (1).executor": "Debug",
+    "JUnit.ChainApplicationTests.contextLoads.executor": "Debug",
+    "JUnit.ChainApplicationTests.executor": "Run",
+    "JUnit.ChainApplicationTests.orderedHandlerChain.executor": "Run",
+    "JUnit.StrategyTest.test02.executor": "Run",
+    "JUnit.StrategyTest.test03.executor": "Debug",
+    "Maven.strategy-pattern [clean].executor": "Run",
+    "Maven.strategy-pattern [package].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.ResponsibilityApplication.executor": "Debug",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "22",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/design-pattern",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.App.executor": "Run",
+    "应用程序.Handler02 (1).executor": "Run",
+    "应用程序.Handler02.executor": "Run",
+    "应用程序.Test01.executor": "Run",
+    "应用程序.com.aa03.design.test01.App (1).executor": "Run",
+    "应用程序.com.aa03.design.test01.App.executor": "Debug"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\design-pattern\strategy-pattern\src\test\java" />
@@ -203,6 +197,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -219,6 +221,7 @@
       <workItem from="1722323541080" duration="26000" />
       <workItem from="1722351007189" duration="1000" />
       <workItem from="1727445672266" duration="6000" />
+      <workItem from="1741529087907" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="feature: 责任链设计模式实现（未使用IOC）">
       <option name="closed" value="true" />
@@ -300,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721909152978</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feature: 1">
+      <option name="closed" value="true" />
+      <created>1741529315733</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741529315733</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +328,7 @@
     <MESSAGE value="feature: 模式介绍" />
     <MESSAGE value="feature: 定义抽象策略设计模型，减少重复定义类" />
     <MESSAGE value="feature: 增加屏蔽文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature: 增加屏蔽文件" />
+    <MESSAGE value="feature: 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature: 1" />
   </component>
 </project>
